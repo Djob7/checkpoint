@@ -1,0 +1,123 @@
+body{
+    font-family: sans-serif;
+    color: #252525;
+}
+
+a {
+    color: #252525;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #252525;;
+}
+
+.active{
+    color: #00ccb1;
+}
+.Docplanner-header{
+   display: flex;
+   justify-content: space-between;
+   margin: 20px 0;
+   margin-right: 273px;
+}
+
+.Logo-Docplanner{
+    width: 200px;
+    margin-top: -58px;
+    margin-left: 135%;
+
+}
+
+.Introduction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-doc{
+    width: 78px;
+}
+
+.Introduction-Title{
+    color: #00ccb1;
+}
+
+.Intoduction-text{
+    display: flex;
+    padding: 20px;
+}
+
+.services{
+    display: -webkit-box;
+    padding-left: 224px;
+}
+
+.service-card-patient{
+background-color: #00ccb1;
+width: 200px;
+padding: 50px;
+ margin: 20px;
+}
+
+.service-card-doctors{
+background-color: #3d83df;
+width: 200px;
+padding: 50px;
+margin: 20px;
+}
+
+.service-card-clinics{
+background-color: #1b2734;
+width: 200px;
+padding: 50px;
+margin: 20px;
+}
+
+
+.service-card-for{
+    color: white;
+}
+
+
+.service-card-title{
+    color: white;
+}
+
+.Service-card-select{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+header{
+        top: 0;
+        position: sticky;
+        background: rgba(255, 255, 255, 0.9);
+}
+
+.logo-doctoralia{
+    width: 100px;
+}
+
+.logo-znanylekarz{
+    width: 100px;
+}
+
+.logo-miodottore{
+    width: 100px;
+}
+
+.logo-doktortakvimi{
+    width: 100px;
+}
+
+.sevices-brands{
+    display: flex;
+    padding: 20px;
+}
+
+
+
+
+
